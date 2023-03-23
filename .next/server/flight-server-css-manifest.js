@@ -1,0 +1,10 @@
+self.__RSC_CSS_MANIFEST={
+  "__entry_css_mods__": {
+    "C:\\Users\\User\\Downloads\\news_live\\news_live\\app\\page": [
+      "C:\\Users\\User\\Downloads\\news_live\\news_live\\styles\\globals.css"
+    ]
+  },
+  "C:\\Users\\User\\Downloads\\news_live\\news_live\\app\\layout.tsx": [
+    "C:\\Users\\User\\Downloads\\news_live\\news_live\\styles\\globals.css"
+  ]
+}
